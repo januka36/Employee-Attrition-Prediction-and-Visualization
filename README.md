@@ -16,15 +16,15 @@ The visualization was done with Microsoft PowerBI.</h2>
 
 <h2>Screenshots</h3>
 
-<p>Overview <\p>
+<p>Overview
 <p align="center">
   <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Overview.jpg" width="800" title="hover text"></p>
 <p>Interactive Bar Graph<\p>  
 <p align="center">
-  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Bar%20Graph.jpg" width="550" title="hover text"></p>
-<p>Interactive Pie Chart<\p>
+  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Bar%20Graph.jpg" width="800" title="hover text"></p>
+<p>Interactive Pie Chart
 <p align="center">
-  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Pie%20Chart.jpg" width="550" title="hover text"></p>
-<p>Interactive Doughnut Charts<\p>
+  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Pie%20Chart.jpg" width="800" title="hover text"></p>
+<p>Interactive Doughnut Charts
 <p align="center">
-  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Doughnut%20Chart.jpg" width="550" title="hover text"></p>
+  <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Doughnut%20Chart.jpg" width="800" title="hover text"></p>
