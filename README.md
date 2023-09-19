@@ -19,7 +19,7 @@ The visualization was done with Microsoft PowerBI.</h2>
 <p>Overview
 <p align="center">
   <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Overview.jpg" width="800" title="hover text"></p>
-<p>Interactive Bar Graph<\p>  
+<p>Interactive Bar Graph
 <p align="center">
   <img src="https://github.com/januka36/Employee-Attrition-Prediction-and-Visualization/blob/main/Screen%20Shots%20-%20Dashboard/Interactive%20Bar%20Graph.jpg" width="800" title="hover text"></p>
 <p>Interactive Pie Chart
